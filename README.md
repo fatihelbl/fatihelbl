@@ -1,4 +1,4 @@
-I am Fatih Elibol
+
 
 # Contact me
 
